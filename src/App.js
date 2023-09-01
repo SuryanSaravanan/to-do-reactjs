@@ -134,7 +134,7 @@ class App extends Component {
                                         <Button style={{marginRight:"10px"}}
                                         variant = "light"
                                         onClick={() => this.deleteItem(item.id)}>
-                                          Delete
+                                          Done
                                         </Button>
                                         <Button variant = "light"
                                         onClick={() => this.editItem(index)}>
